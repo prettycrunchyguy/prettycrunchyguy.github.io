@@ -1,0 +1,20 @@
+{
+  "course_title":"Algebra I",
+  "course_description":"This undergraduate level Algebra I course covers groups, vector spaces, linear transformations, symmetry groups, bilinear forms, and linear groups.\n",
+  "site_uid":"7a0eb77f-bb68-457c-b799-028daf079acf",
+  "legacy_uid":"06d34416-4f58-3612-2b02-2e9296e86b97","instructors": [{
+    "first_name":"Michael",
+    "last_name":"Artin",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. Michael Artin"}],"department_numbers":["18"],
+  "learning_resource_types":["Problem Sets"],
+  "topics":[["Mathematics","Algebra and Number Theory"],["Mathematics","Linear Algebra"]],
+  "primary_course_number":"18.701",
+  "extra_course_numbers":"",
+  "term":"Fall",
+  "year":"2010",
+  "level":["Undergraduate"],
+  "image_src":"./static_resources/afe1d32a60b2c66b094096708cdce61e_18-701f10.jpg",
+  "course_image_metadata":{"content_type":"resource","description":"One of the cubes inscribed in a dodecahedron. Image by MIT OpenCourseWare.","draft":false,"file":"/courses/18-701-algebra-i-fall-2010/afe1d32a60b2c66b094096708cdce61e_18-701f10.jpg","file_type":"image/jpeg","image_metadata":{"caption":"One of the cubes inscribed in a dodecahedron. (Image by MIT OpenCourseWare.)","credit":"Image by MIT OpenCourseWare.","image-alt":"Cube inscribed in a dodecahedron."},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","ocw_type":"OCWImage","resourcetype":"Image","title":"18-701f10.jpg","uid":"afe1d32a-60b2-c66b-0940-96708cdce61e"}}
+
